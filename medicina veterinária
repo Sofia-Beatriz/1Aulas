@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Clínica Veterinária XYZ</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Clínica Veterinária XYZ</h1>
+        <nav>
+            <ul>
+                <li><a href="#sobre">Sobre Nós</a></li>
+                <li><a href="#servicos">Nossos Serviços</a></li>
+                <li><a href="#contato">Contato</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="sobre">
+        <h2>Sobre Nós</h2>
+        <p>Bem-vindo à Clínica Veterinária XYZ, onde cuidamos do seu animal de estimação com amor e dedicação. Nossa equipe de veterinários altamente qualificados está aqui para fornecer os melhores cuidados para o seu animal de estimação.</p>
+    </section>
+
+    <section id="servicos">
+        <h2>Nossos Serviços</h2>
+        <ul>
+            <li>Consultas de rotina</li>
+            <li>Cirurgia</li>
+            <li>Vacinação</li>
+            <li>Exames de diagnóstico</li>
+            <li>Cuidados dentários</li>
+        </ul>
+    </section>
+
+    <section id="contato">
+        <h2>Contato</h2>
+        <p>Estamos localizados em:</p>
+        <address>
+            Rua da Clínica, 123<br>
+            Cidade, Estado<br>
+            CEP: 12345-678
+        </address>
+        <p>Telefone: (12) 3456-7890</p>
+        <p>Email: contato@clinicaveterinariaxyz.com</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Clínica Veterinária XYZ. Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>
